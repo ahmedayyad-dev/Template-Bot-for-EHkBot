@@ -14,3 +14,6 @@ LICENSE_KEY = info.LICENSE_KEY
 channel = info.channel
 api_id = info.api_id
 api_hash = info.api_hash
+
+token = '7004958045:AAG3OIRxnKeAdmZAZUpH0VRTfsclkAf6xHA'
+bot_owner_id = 944353237

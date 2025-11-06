@@ -22,7 +22,7 @@ async def start(client: Client, message: Message):
             caption="• اهلا بك عزيزي .\n• يمكنني تشغيل الموسيقى في الاتصال .\n• ادعم التشغيل في المجموعات والقنوات .\n• ⎯ ⎯ ⎯ ⎯\n",
             reply_markup=get_keyboard()
         )
-        await message.reply("كسم اسرائيل",reply_markup=get_keyboard(1))
+        await message.reply("تبا",reply_markup=get_keyboard(1))
 
 
 @Client.on_message(text_command("الاحصائيات", bot_owner=True, chats='pv') & subscription)

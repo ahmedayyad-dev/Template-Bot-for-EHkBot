@@ -41,11 +41,12 @@ cancel_key = ReplyKeyboardMarkup(
 def get_keyboard(user_id=None):
     if user_id in admin_users or user_id == 'admin':
         return ReplyKeyboardMarkup(
-        [
+            [
                 ["الاحصائيات", "تعيين مجموعه السجل"],
                 ["اذاعه قنوات","اذاعه جروبات","اذاعه خاص"],
                 ["تعطيل الاشتراك الاجباري", "تفعيل الاشتراك الاجباري"],
                 ["حذف مساعد", "اضافه مساعد"],
+                ["تحديث البوت"],
                 ["اعاده تشغيل الحسابات المساعده"],
             ],
             True,True
