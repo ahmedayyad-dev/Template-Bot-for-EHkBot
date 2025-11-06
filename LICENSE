@@ -1,0 +1,300 @@
+Ahmed Ayyad Source Available License (AASAL)
+
+Copyright (c) 2025 Ahmed Ayyad (ahmedyad200). All rights reserved.
+
+================================================================================
+
+TERMS AND CONDITIONS
+
+================================================================================
+
+1. DEFINITIONS
+
+"Software" refers to the source code, documentation, and associated files 
+in this repository.
+
+"License Key" refers to the commercial license required to run the Software.
+
+"Fork" refers to a complete copy of this repository with modifications.
+
+"Derivative Work" refers to any modification or enhancement of the entire 
+Software repository.
+
+"Code Extraction" refers to copying portions of the source code for use in 
+different projects.
+
+--------------------------------------------------------------------------------
+
+2. SOURCE CODE AVAILABILITY
+
+The source code is made publicly available for:
+  - Learning and educational purposes
+  - Code review and security auditing
+  - Understanding the implementation
+  - Contributing improvements via pull requests
+
+This is a SOURCE AVAILABLE license, NOT an Open Source license as defined 
+by the Open Source Initiative (OSI).
+
+--------------------------------------------------------------------------------
+
+3. PERMITTED USES
+
+You MAY:
+  ✓ View and study the source code
+  ✓ Fork the entire repository
+  ✓ Modify your fork of the complete Software
+  ✓ Create derivative works based on the entire Software
+  ✓ Use the Software for commercial purposes (with valid License Key)
+  ✓ Submit pull requests and contributions
+  ✓ Share links to this repository
+
+--------------------------------------------------------------------------------
+
+4. RESTRICTIONS
+
+You MAY NOT:
+  ✗ Run or execute the Software without a valid License Key from the author
+  ✗ Extract, copy, or reuse portions of the code in different projects
+  ✗ Use any part of the source code in other software projects
+  ✗ Bypass, disable, or circumvent the license verification system
+  ✗ Remove or modify encrypted/protected files (PyArmor or similar)
+  ✗ Distribute License Keys or share your license with others
+  ✗ Sell, resell, or redistribute License Keys
+  ✗ Create or distribute activated/working copies without authorization
+  ✗ Remove, modify, or obscure copyright notices or license information
+  ✗ Reverse engineer, decompile, or attempt to decrypt protected files
+
+--------------------------------------------------------------------------------
+
+5. FORK AND DERIVATIVE WORKS REQUIREMENTS
+
+If you create a Fork or Derivative Work:
+
+  a) LICENSE REQUIREMENT:
+     - Your fork MUST require a License Key from Ahmed Ayyad (ahmedyad200) 
+       to run
+     - You cannot create your own licensing system for forks
+     - Users must purchase licenses directly from the original author
+
+  b) SOURCE AVAILABILITY:
+     - Your fork MUST remain publicly available under this same license
+     - You cannot make your fork private or proprietary
+
+  c) ATTRIBUTION:
+     - You MUST retain all original copyright notices
+     - You MUST clearly indicate that it is a fork/modification
+     - You MUST credit Ahmed Ayyad (ahmedyad200) as the original author
+
+  d) LICENSE INHERITANCE:
+     - Your fork MUST use this exact same license (AASAL)
+     - All modifications inherit these same terms
+
+--------------------------------------------------------------------------------
+
+6. CONTRIBUTIONS AND PULL REQUESTS
+
+By submitting contributions (pull requests, issues, suggestions):
+
+  a) You retain copyright to your contributions
+  
+  b) You grant Ahmed Ayyad (ahmedyad200) a perpetual, worldwide, non-exclusive,
+     royalty-free license to use, modify, and distribute your contributions
+     under this license
+  
+  c) Your contributions become part of the Software and are subject to 
+     this license
+  
+  d) You confirm that you have the right to submit the contribution and 
+     grant these rights
+
+--------------------------------------------------------------------------------
+
+7. LICENSE KEY REQUIREMENT
+
+CRITICAL: The Software includes a license verification system that requires 
+a valid License Key to operate.
+
+  - Each individual or organization must purchase their own License Key
+  - License Keys are available from: ahmedyad200@gmail.com
+  - One License Key = One User/Organization
+  - License Keys are non-transferable and non-shareable
+  - Distribution of working/activated copies is strictly prohibited
+
+--------------------------------------------------------------------------------
+
+8. PROTECTED FILES
+
+The Software contains encrypted files (protected by PyArmor or similar tools) 
+that implement license verification and core functionality.
+
+You agree NOT to:
+  - Attempt to decrypt, decompile, or reverse engineer these files
+  - Bypass or disable the protection mechanisms
+  - Create tools or methods to circumvent the license verification
+  - Share methods or tools for bypassing protections
+
+--------------------------------------------------------------------------------
+
+9. COPYRIGHT NOTICE REQUIREMENT
+
+All source code files MUST retain the original copyright notice:
+
+    # Copyright (c) 2025 Ahmed Ayyad (ahmedyad200)
+    # Licensed under Ahmed Ayyad Source Available License (AASAL)
+    # This software requires a valid license key to run
+    # License keys available at: ahmedyad200@gmail.com
+
+This notice must remain intact in all copies, forks, and derivative works.
+
+--------------------------------------------------------------------------------
+
+10. COMMERCIAL USE
+
+  - Commercial use of the Software is permitted ONLY with a valid License Key
+  - Companies and commercial entities must purchase appropriate licenses
+  - Using the Software in production environments requires a valid license
+  - Contact ahmedyad200@gmail.com for commercial licensing options
+
+--------------------------------------------------------------------------------
+
+11. NO CODE EXTRACTION
+
+You may NOT extract portions of the source code for use in other projects, 
+including but not limited to:
+  - Copying functions, classes, or modules to different projects
+  - Reusing algorithms or implementations in separate software
+  - Creating libraries or packages from parts of this code
+  - Incorporating code snippets into unrelated projects
+
+You may ONLY work with the Software as a complete repository (fork/derivative).
+
+--------------------------------------------------------------------------------
+
+12. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+Ahmed Ayyad (ahmedyad200) retains all rights, title, and interest in and to 
+the Software, including all intellectual property rights. This license grants 
+you limited rights as specified herein but does not transfer ownership.
+
+--------------------------------------------------------------------------------
+
+13. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT.
+
+--------------------------------------------------------------------------------
+
+14. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL AHMED AYYAD (ahmedyad200) BE LIABLE FOR ANY CLAIM, DAMAGES, 
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, 
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+DEALINGS IN THE SOFTWARE, INCLUDING BUT NOT LIMITED TO:
+
+  - Loss of profits or revenue
+  - Loss of data or data corruption
+  - Business interruption
+  - System failures or downtime
+  - Any indirect, incidental, special, or consequential damages
+
+YOUR USE OF THE SOFTWARE IS AT YOUR OWN RISK.
+
+--------------------------------------------------------------------------------
+
+15. TERMINATION
+
+This license terminates automatically if you:
+  - Violate any terms of this license
+  - Attempt to bypass the license verification system
+  - Distribute License Keys or activated copies
+  - Extract code for use in other projects
+  - Remove or modify copyright notices
+  - Fail to maintain required attributions in forks
+
+Upon termination:
+  - You must immediately cease all use of the Software
+  - You must delete all copies of the Software in your possession
+  - Any forks or derivatives you created must be deleted or made non-functional
+
+--------------------------------------------------------------------------------
+
+16. UPDATES AND SUPPORT
+
+  - Software updates and bug fixes are provided at the author's discretion
+  - Technical support is provided only to valid License Key holders
+  - The author reserves the right to modify the licensing system
+  - Future versions may use different license terms
+
+--------------------------------------------------------------------------------
+
+17. ENFORCEMENT
+
+Violations of this license may result in:
+  - Immediate license termination without refund
+  - Revocation of access to the repository
+  - Legal action for damages and injunctive relief
+  - Reporting to relevant authorities and platforms
+  - DMCA takedown notices for unauthorized forks
+
+--------------------------------------------------------------------------------
+
+18. SEVERABILITY
+
+If any provision of this license is held to be unenforceable or invalid, 
+the remaining provisions shall continue in full force and effect.
+
+--------------------------------------------------------------------------------
+
+19. ENTIRE AGREEMENT
+
+This license constitutes the entire agreement between you and Ahmed Ayyad 
+(ahmedyad200) concerning the Software.
+
+--------------------------------------------------------------------------------
+
+20. GOVERNING LAW
+
+This license shall be governed by applicable international and local laws.
+
+--------------------------------------------------------------------------------
+
+21. CONTACT INFORMATION
+
+For License Keys, questions, or special permissions:
+
+Author: Ahmed Ayyad
+Email: ahmedyad200@gmail.com
+GitHub: https://github.com/ahmedayyad-dev
+
+To purchase a License Key: ahmedyad200@gmail.com
+
+================================================================================
+
+IMPORTANT NOTICE
+
+This is a SOURCE AVAILABLE license, NOT Open Source:
+  ✓ You CAN view, learn from, and fork the source code
+  ✗ You CANNOT run it without a valid License Key
+  ✗ You CANNOT extract code portions for other projects
+  ✗ You CANNOT bypass the license verification system
+
+Forks and derivatives MUST:
+  • Use this same license (AASAL)
+  • Require License Keys from the original author
+  • Remain publicly available
+  • Credit the original author
+
+================================================================================
+
+AGREEMENT
+
+By using, viewing, forking, or contributing to this Software, you acknowledge 
+that you have read this license, understand it, and agree to be bound by its 
+terms and conditions.
+
+================================================================================
+
+Copyright (c) 2025 Ahmed Ayyad (ahmedyad200). All rights reserved.
