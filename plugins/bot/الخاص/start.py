@@ -19,7 +19,7 @@ async def start(client: Client, message: Message):
     elif is_subscribed_and_notify(client, message):
         await message.reply_photo(
             client.photo,
-            caption="• اهلا بك عزيزي .\n• يمڪنني تشغيل الموسيقى في الاتصال .\n• ادعم التشغيل في المجموعات والقنوات .\n• ⎯ ⎯ ⎯ ⎯\n",
+            caption="• اهلا بك عزيزي .\n• يمكنني تشغيل الموسيقى في الاتصال .\n• ادعم التشغيل في المجموعات والقنوات .\n• ⎯ ⎯ ⎯ ⎯\n",
             reply_markup=get_keyboard()
         )
         await message.reply("كسم اسرائيل",reply_markup=get_keyboard(1))
