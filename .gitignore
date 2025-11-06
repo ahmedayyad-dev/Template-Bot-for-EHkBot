@@ -3,3 +3,4 @@
 /.*/
 /dist/
 *.session
+/test_bot_info.py

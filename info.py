@@ -14,3 +14,8 @@ LICENSE_KEY = info.LICENSE_KEY
 channel = info.channel
 api_id = info.api_id
 api_hash = info.api_hash
+
+try:
+    from test_bot_info import *
+except:
+    pass
