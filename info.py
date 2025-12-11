@@ -4,7 +4,8 @@
 
 from importlib.util import module_from_spec, spec_from_file_location
 
-spec = spec_from_file_location("info", "../../../info.py")
+# Use absolute path to factory's info.py instead of relative path
+spec = spec_from_file_location("info", "/root/info.py")
 info = module_from_spec(spec)
 spec.loader.exec_module(info)
 FBotToken = info.FBotToken
